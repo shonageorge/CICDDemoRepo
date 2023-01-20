@@ -31,4 +31,4 @@ phases:
 artifacts:
   files:
     - imagedefinitions.json
-    - target/order-service.jar
+    - target/CICDStudentProgram.jar
